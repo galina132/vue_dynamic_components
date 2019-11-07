@@ -1,5 +1,11 @@
 <template>
-  <div>
+  <div><h1>I am Test 1</h1>
+    <form>
+      First name:<br>
+      <input type="text" name="firstname"><br>
+      Last name:<br>
+      <input type="text" name="lastname">
+    </form>
   </div>
 </template>
 
